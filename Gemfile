@@ -1,1 +1,1 @@
-gem "academic"
+gem 'academic'
