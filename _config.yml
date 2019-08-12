@@ -1,2 +1,5 @@
 #theme: jekyll-theme-architect
-theme: academic
+remote_theme: gaalcaras/academic
+
+## Academic theme configuration #####
+pitch: This is the pitch
