@@ -1,5 +1,17 @@
 #theme: jekyll-theme-architect
 remote_theme: gaalcaras/academic
 
-## Academic theme configuration #####
+## Academic theme configuration (https://jekyll-themes.com/academic/) #####
 pitch: This is the pitch
+#Author
+email: info@marceldehaas.com
+#curriculum: [optional]
+#name: [optional] text of the link. Default : Curriculum Vitae.
+#url: [mandatory] url of the curriculum file.
+shortbio: [optional] describe yourself in a sentence or two. If shortbio is defined, a small element is added at the end of the post to introduce the author to the readers.
+author_display: true
+#author_website: [optional] url to the external website of the author. If author_website exists, it is added in the about layout and in the footer (if author_display is true).
+twitter_username: marceldehaas
+github_username: mdehaas
+#keybase_username: [optional] your Keybase username. If it exists, your account will be linked on the about page.
+#linkedin_username:
